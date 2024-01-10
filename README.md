@@ -17,7 +17,10 @@ Open your browser to [localhost](http://localhost:3000). Create, read, update an
 
 ## Credits
 
+MDN Webdocs, W3Schools, Express.js documentation, and EJS documentation were helpful references in building this application.
+
 - [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 - [Express.js](https://expressjs.com/)
 - [EJS](https://ejs.co/)
 
